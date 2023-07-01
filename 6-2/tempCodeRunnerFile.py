@@ -1,0 +1,5 @@
+m.add_node_adj_list(0, 1)
+m.add_node_adj_list(0, 2)
+m.add_node_adj_list(1, 0)
+m.add_node_adj_list(1, 2)
+m.add_node_adj_list(2, 1)
